@@ -1,0 +1,40 @@
+fail;nimi;algus;kinnitus;funktsioon
+suboccipitalis;Kuklaalune lihas;C1, C2;C1, Occiput (kuklaluu);Kaela / pea stabiliseerimine
+erector spinae;Lülisamba sirgestajad;Occiput (kuklaluu);Sacrum (ristluu);Selja stabiliseerimine
+supraspinatus;Harjaüline lihas;Scapula (abaluu);Tuberculum majus;GH liigese välimine rotatsioon ja abduktsioon
+infraspinatus;Harjaalune lihas;Scapula (abaluu);Tuberculum majus;Välimine rotatsioon + GH liigese stabilisatsioon
+teres minor;Väike ümarlihas;Scapula (abaluu);Tuberculum majus;Välimine rotatsioon + GH liigese stabilisatsioon
+subscapularis;Abaluuualune lihas;Scapula (anterior);Tuberculum minus;Sisemine rotatsioon + GH liigese stabilisatsioon
+deltoideus;Deltalihas;Clavicula, acromion, spina scapula;Humerus;Õlaliigese abduktsioon, ekstensioon, fleksioon
+trapezius;Trapetslihas;Occiput, C7;Clavicula, acromion, spina scapula;Abaluu tõstmine ja stabiliseerimine
+serratus anterior;Eesmine saaglihas;Scapula (margo medialis);Costa 1-9 (roided);Protraktsioon, stabiliseerib abaluud
+rhomboideii;Romblihased;Spinaalsed jätked (ülaosa);Margo medialis scapula;Retraktsioon (pöörab õlga posterioorselt)
+latissimus dorsi;Selja lailihas;Spinaalsed jätked (alaosa);Tuberculum minus;Õla adduktsioon, ekstensioon, sisemine rotatsioon
+triceps brachii;Õlavarre kolmpealihas;Scapula, humerus;Olecranon;Õla ja küünarliigese ekstensioon
+biceps brachii;Õlavarre kakspealihas;Scapula (proc. coracoideus);Radius (kodarluu);Küünarliigese fleksioon ja supinatsioon
+brachialis;Õlavarrelihas;Humerus (anterior);Ulna (küünarluu);Küünarliigese fleksioon
+coracobrachialis;Kaarnajätke-õlavarrelihas;Proc. coracoideus;Humerus;Õlaliigese fleksioon
+brachioradialis;Õlavarre-kodarluulihas;Humerus;Radius;Küünarliigese fleksioon, pronatsioon, supinatsioon
+pectoralis major;Suur rinnalihas;Sternum, clavicula, costa 2-7;Humerus;Õla horisontaalne adduktsioon
+pectoralis minor;Väike rinnalihas;Proc. coracoideus;Costa 3-5;Langetab abaluud, kergitab roideid
+rectus abdominis;Kõhu sirglihas;Costa 5-7;Pubis (häbemeluu);Kere fleksioon, kompressioon
+obliquus externus;Välimine kõhu põikilihas;Costa 5-12;Iliac crest, linea alba;Kere fleksioon, rotatsioon
+obliquus internus;Sisemine kõhu põikilihas;Fascia thoracolumbalis, Pelvis;Kõhu sirglihase tupp, roided 10-12;Kere fleksioon, rotatsioon
+transversus abdominis;Kõhu ristilihas;Fascia thoracolumbalis, Crista iliaca;Kõhu sirglihase tupp;Lülisamba stabilisatsioon
+diaphragma;Vahelihas;Roided 7-12, nimmelülid L1-L3;Centrum tendineum;Hingamislihas, tekitab kõhusurvet
+psoas major;Suur nimmelihas;Nimmelülid 1-5;Trochanter minor;Puusa fleksioon ja väline rotatsioon
+iliacus;Niudelihas;Ilium (anterior);Trochanter minor;Puusa fleksioon ja väline rotatsioon
+gluteus medius;Keskmine tuharalihas;Ilium (lateral);Trochanter major;Puusa abduktsioon, sisemine rotatsioon
+gluteus maximus;Suur tuharalihas;Ilium, sacrum, coccyx;Femur (posterior);Puusa ekstensioon, abduktsioon, väline rotatsioon
+piriformis;Pirnlihas;Sacrum;Trochanter major;Välimine rotatsioon, abduktsioon
+tensor fascia latae;Lai-sidekirme-pingutaja;Ilium;Tibia (lateral);Puusa fleksioon, abduktsioon, kere stabilisatsioon
+adductor magnus;Suur lähendajalihas;Pubis, Ischium;Femur (posterior);Puusa adduktsioon, ekstensioon
+quadriceps;Nelipealihas;Ilium, femur;Patella, Tuberositas tibia;Põlve ekstensioon, puusa fleksioon
+sartorius;Rätseplihas;Ilium (SIAS);Tibia (medial);Puusa ja põlve fleksioon, rotatsioon
+hamstring;Hamstringid;Pelvis, Ischium;Tibia, Fibula;Puusa ekstensioon, põlve fleksioon
+gracilis;Õrnlihas;Pubis;Tibia (medial);Puusa adduktsioon, fleksioon, põlve fleksioon
+peroneus longus brevis;Pindluulihased;Fibula;1st metatarsal;Plantaarfleksioon
+tibialis anterior;Eesmine sääreluulihas;Tibia (anterior);1st metatarsal;Dorsaalfleksioon, inversioon
+gastrocnemius;Sääre kakspealihas;Femur (distal post.);Calcaneus;Plantaarfleksioon, põlve fleksioon
+soleus;Lestlihas;Tibia + fibula;Calcaneus;Plantaarfleksioon
+tibialis posterior;Tagumine sääreluulihas;Tibia + Fibula;Navicular;Plantaarfleksioon, inversioon
